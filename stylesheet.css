@@ -1,0 +1,13 @@
+h2 {color: yellow;}
+p {color: blue;
+background-color: yellow;}
+body {background-color: green;
+color: white;
+font-family: Tahoma;
+font-weight: normal;}
+.gray-element {background-color: orange;
+color: white;}
+.slogan {background-color: teal;
+color: yellow;}
+button {background-color: blue;}
+img {color: yellow;}
